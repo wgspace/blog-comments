@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://wgspace.cn"
+    "https://wgspace.cn",
+    "http://localhost:4000"
   ]
 }
